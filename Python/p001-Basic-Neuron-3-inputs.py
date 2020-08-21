@@ -1,4 +1,7 @@
 '''
+The awesome code creator:
+https://www.youtube.com/results?search_query=sentdex
+
 Creates a basic neuron with 3 inputs.
 
 Associated YT NNFS tutorial: https://www.youtube.com/watch?v=Wo5dMEP_BbI
